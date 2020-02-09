@@ -1,9 +1,11 @@
 # SymulatorProgramisty
-Program Symulator Programisty jest prostą grą wykonaną w API Windows Forms.
+Program Symulator Programisty jest prostą grą wykonaną w API Windows Forms. 
 Gra składa się z trzech okienek
 * FormMain - menu główne z przyciskami pozwalającymi na nawigowanie po grze
 * FormManual - zestaw instrukcji wyjaśniających mechanikę gry
 * FormGame - okno odpowiedzialne za rozgrywkę
+
+Gra została wykonana w ramach kursu programowania **Kredek 2020** 
 
 ## Rozgrywka:
 Rozgrywka polega na przetrwaniu jak najdłużej i zdobyciu jak największej ilości punktów oraz poziomu. Trzon rozgrywki opiera się o zdobywanie zasobów takich jak energia, połączenia telefoniczne oraz jedzenie. "Surowce" możemy zdobywać dzięki rozwiązywaniu prostych zadań matematycznych wyświetlonych na monitorze albo poprzez szybkie zareagowanie na pojawiające się zdarzenia takie jak:
